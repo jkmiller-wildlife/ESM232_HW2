@@ -1,0 +1,26 @@
+---
+title: "Assignment 2"
+author: "Jamie Miller"
+date: "April 12, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r libraries}
+library(tidyverse)
+```
+
+```{r source_functions}
+source("../R/function_name.R")
+
+
+```
+
+
+
+
+
+
